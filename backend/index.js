@@ -11,6 +11,8 @@ app.get('/', (req, res) => {
     res.send('Server is running');
 });
 
+console.log(" Login api is created here.");
+
 
 app.listen(PORT, () => {
     console.log(`Server listening on http://localhost:${PORT}`);
