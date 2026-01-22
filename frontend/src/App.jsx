@@ -5,6 +5,9 @@ function App() {
     <>
       <div>
         demo frontend 
+	  <div> 
+	  Login Page added at /login route.
+	  </div>
       </div>
     </>
   )
